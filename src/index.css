@@ -23,3 +23,13 @@ li {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.btns:hover {
+  background: #ccc;
+  transition: all 0.3s ease-in-out;
+}
+.btns:active {
+  background: #ccc;
+  transform: scale(0.95);
+  transition: all 0.3s ease-in-out;
+}
