@@ -1,12 +1,30 @@
-# React + Vite
+#Ecommercer Advance Filtering 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project shows how can you filtering products in an ecommerce web app.
 
-Currently, two official plugins are available:
+##The project filter in:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Prices
 
-## Expanding the ESLint configuration
+![1](https://github.com/user-attachments/assets/cac519bb-bdb9-4d4c-b4e9-52b74e6512ea)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-Colors
+
+![2](https://github.com/user-attachments/assets/c23e00f0-f9ac-474f-bf5b-492876d6b3cf)
+
+-Categories 
+
+![3](https://github.com/user-attachments/assets/bbddf904-d345-49de-a4c1-2fce1d548d6b)
+
+## Language Used:
+
+-React
+
+ ##Style
+ - CSS5
+
+##Installation 
+
+-React + Vite
+
+-React icon 
