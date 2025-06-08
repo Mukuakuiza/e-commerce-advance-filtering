@@ -8,7 +8,7 @@
 
 .card {
   margin: 20px;
-  border: 2px solis #ededed;
+  border: 2px solid #ededed;
   padding: 20px;
   cursor: pointer;
 }
@@ -23,22 +23,22 @@
 }
 
 .card-reviews {
-  display: flex;
   margin-bottom: 1rem;
+  display: flex;
 }
 
-.ratings-star {
+.rating-star {
   color: #d5ab55;
 }
 
 .total-reviews {
   font-size: 0.9rem;
-  margin-left: 8px;
+  margin-left: 10px;
 }
 
 .card-price {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 

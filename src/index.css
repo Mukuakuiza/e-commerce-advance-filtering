@@ -1,6 +1,6 @@
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
   font-family: sans-serif;
 }
@@ -21,16 +21,6 @@ li {
   border: none;
   border: 0.6px solid #ccc;
   border-radius: 5px;
+  color: #323232;
   cursor: pointer;
 }
-
-.btns:hover {
-  background: #ccc;
-  transition: all 0.3s ease-in-out;
-}
-.btns:active {
-  background: #ccc;
-  transform: scale(0.95);
-  transition: all 0.3s ease-in-out;
-}
-  
